@@ -19,10 +19,15 @@ The defined mesh has a higher resolution at the interface. The values can be fou
 
 ![image](https://user-images.githubusercontent.com/131758702/234266153-8cd7e4f7-e580-4ed9-aa87-6066be918502.png)
 
-Initiating the computation can be achieved by selecting the "Compute" option located under the "Study" node. In this case the study took about 5  hours, depending on the computational power of the used device. 
+Initiating the computation can be achieved by selecting *Compute*  located under the *Study* node. In this case the study took about 85  hours based on the computational power of the used device (12-core Intel Xeon with 256 GB RAM).
 
 ![image](https://user-images.githubusercontent.com/131758702/234266655-bb6c6539-cf3a-45a5-bc14-e05074034d72.png)
 
 The values of interest (surface area, volume etc.) can be found under *Derived values
 
 ![image](https://user-images.githubusercontent.com/131758702/234267655-21954c88-b7b1-4a4b-b4f1-8899b413df30.png)
+
+
+Please do not hesitate to contact me if further clarification or assistance is needed!
+
+
