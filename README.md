@@ -31,8 +31,8 @@ The values of interest (surface area, volume etc.) can be found under *Derived v
 
 ![image](https://user-images.githubusercontent.com/131758702/234267655-21954c88-b7b1-4a4b-b4f1-8899b413df30.png)
 
--------------------------------
+*-------------------------------*
 
-Please do not hesitate to contact me if further clarification or assistance is needed!
+-Please do not hesitate to contact me if further clarification or assistance is needed!
 
 
