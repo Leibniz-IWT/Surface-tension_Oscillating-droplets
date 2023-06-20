@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/632405103.svg)](https://zenodo.org/badge/latestdoi/632405103)
+
 # Surface-tension_Oscillating-droplets
 Comsol files for symmetrical and asymmetrical oscillating droplets in 2D and 3D
 
